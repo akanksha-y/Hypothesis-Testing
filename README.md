@@ -1,3 +1,2 @@
 # Hypothesis-Testing
-# Open in Google Colab
-
+open in google colab
